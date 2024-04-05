@@ -14,6 +14,7 @@ body {
   background: #e3f4ff;
   font-size: 16px;
   margin-bottom: 8px;
+  margin-top: 0;
   padding: 8px;
 }
 
@@ -28,7 +29,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
-  padding: 8px;
+  padding: 16px 8px;
 
 }
 
@@ -38,4 +39,5 @@ button {
   border: 1px solid #eee;
   margin-left: auto;
   margin-right: auto;
+  padding: 8px 24px;
 }
